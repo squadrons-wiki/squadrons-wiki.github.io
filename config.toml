@@ -1,0 +1,4 @@
+baseURL = "https://squadrons.wiki/"
+languageCode = "en-us"
+title = "Star Wars: Squadrons - Community Wiki"
+theme = "dimension"
